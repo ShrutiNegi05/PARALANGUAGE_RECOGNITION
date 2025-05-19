@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Paralanguage Recognition for Virtual Connects
 
 This project provides a real-time assistive system that detects emotions in individuals with cognitive or speech impairments using non-verbal cues like facial expressions, gestures, and voice tone.
@@ -24,3 +25,6 @@ This project provides a real-time assistive system that detects emotions in indi
 ```bash
 pip install -r requirements.txt
 python src/realtimedetection.py
+=======
+# PARALANGUAGE_RECOGNITION
+>>>>>>> 0de5ae5e607aeb69a0deea90cf201da0c6ff21fd
