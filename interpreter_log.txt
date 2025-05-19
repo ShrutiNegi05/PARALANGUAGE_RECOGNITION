@@ -1,0 +1,9 @@
+2025-05-18 13:36:33, Emotion: surprised, Sign: hello
+2025-05-18 13:36:46, Emotion: happy, Sign: hello
+2025-05-18 19:29:57, Emotion: angry, Sign: hello
+2025-05-18 19:30:15, Emotion: surprised, Sign: hello
+2025-05-18 19:30:31, Emotion: surprised, Sign: thank you
+2025-05-18 19:31:01, Emotion: angry, Sign: thank you
+2025-05-18 19:31:54, Emotion: surprised, Sign: thank you
+2025-05-19 20:03:18, Emotion: surprised, Sign: hello
+2025-05-19 20:03:28, Emotion: happy, Sign: hello
